@@ -1,0 +1,15 @@
+.vscode/
+__pycache__/
+doc/source/_*/
+env_vars.env
+venv/
+env/
+*.zip
+*.jpg
+*.png
+*.tiff
+.data/
+*.egg-info
+dist
+build
+*.log
